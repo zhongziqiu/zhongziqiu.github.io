@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Paul&#39;s Blog</title>
+  <icon>https://www.gravatar.com/avatar/2bcc616d769653ea4b3236b3edc053ad</icon>
+  <subtitle>我们曾如此渴望命运的波澜，到最后才发现：人生最曼妙的风景，竟是内心的淡定和从容。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://192.168.1.116:4000/"/>
+  <updated>2019-05-28T05:54:07.257Z</updated>
+  <id>https://192.168.1.116:4000/</id>
+  
+  <author>
+    <name>Paul Zhong</name>
+    <email>paul_zhong@msn.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome to Paul&#39;s Blog</title>
+    <link href="https://192.168.1.116:4000/2019/05/28/hello-2019/"/>
+    <id>https://192.168.1.116:4000/2019/05/28/hello-2019/</id>
+    <published>2019-05-28T12:00:00.000Z</published>
+    <updated>2019-05-28T05:54:07.257Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>“Yeah It’s on. ”</p></blockquote><h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2><p>好久没用过博客这类写文章，追溯到上一次写博客可能是在2015年左右，当时使用的是cnblog。当时的印象是界面有点丑，托管的话还算方便。现在2019年了，稍微搜索下一看，搭建一个博客现在是如此的轻松，愉悦。<br>本博客采用了Hexo + github + Hux主题搭建。Hexo毫无疑问是静态博客搭建的佼佼者。既然搭建了博客，自然要选择托管的网站了，其实github蛮好的，对于流量不大阿个人博客是相当使用了。另外主题这块，我个人喜欢图片+文章的主题风格，Hux童鞋的开源主题让人看起来很舒服，自然是选择他了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;He
+      
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="https://192.168.1.116:4000/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
